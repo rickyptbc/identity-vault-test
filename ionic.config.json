@@ -1,0 +1,8 @@
+{
+  "name": "Identity Vault Test",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite",
+  "id": "e297d38d"
+}
